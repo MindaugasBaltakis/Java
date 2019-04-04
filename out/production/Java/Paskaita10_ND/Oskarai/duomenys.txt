@@ -1,0 +1,7 @@
+5
+1988 Paskutinis_imperatorius 3 33 42
+1991 Šokis_su_vilkais 3 35 43
+1992 Avinėlių_tylėjimas 3 33 44
+2001 Gladiatorius 3 23 43
+2006 Avarija 3 33 39
+
